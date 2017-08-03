@@ -1,0 +1,2 @@
+0, SOUTHAMPTON, WINCHESTER, STARLIGHT HOTEL, SUNSET MOTEL, /assets/Notes/SouthToWinch.txt, /assets/GPS/SouthToWinch.gps, JOHN SMITH, False, 10, 20.00
+1, WINCHESTER, SOUTHAMPTON, SUNLIGHT MOTEL, STARTLIGHT HOTEL, /assets/Notes/WinchToSOUTH.txt, /assets/GPS/WinchTosOUTH.gps, JANE DOE, False, 10, 20.00
